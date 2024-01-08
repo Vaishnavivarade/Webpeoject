@@ -1,0 +1,27 @@
+import java.io.*;
+ public class dowhile
+{
+    public static void main (String[] args) {
+        int i=0;
+        do
+            {
+                System.out.println("Good Morning");
+                i++;
+            }while(i<=10);
+    }
+}
+
+o/p
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+Good Morning
+
+Process finished with exit code 0
